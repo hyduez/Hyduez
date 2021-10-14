@@ -11,10 +11,7 @@
         <summary>No click here ❌</summary>
             <details>
                 <summary>No click here ❌</summary>
-                    <details>
-                        <summary>No click here ❌</summary>
-                            <a href="https://github.com/hyduez"><img src="assets/rickroll-roll.gif" alt="github stats" align="left" width="350px"></a>
-                    </details>
+                    <a href="https://github.com/hyduez"><img src="assets/rickroll-roll.gif" alt="github stats" align="left" width="350px"></a>
             </details>
     </details>
 </details>
