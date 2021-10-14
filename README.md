@@ -13,7 +13,7 @@
                 <summary>No click here ❌</summary>
                     <details>
                         <summary>No click here ❌</summary>
-                            <a href="https://github.com/hyduez"><img src="https://tenor.com/view/rickroll-roll-rick-never-gonna-give-you-up-never-gonna-gif-22954713.gif" alt="github stats" align="left" width="350px"></a>
+                            <a href="https://github.com/hyduez"><img src="assets/rickroll-roll.gif" alt="github stats" align="left" width="350px"></a>
                     </details>
             </details>
     </details>
