@@ -7,5 +7,5 @@
 
 <details>
     <summary>No click here ❌</summary>
-     <a href="https://github.com/hyduez"><img src="assets/rickroll-roll.gif" alt="github stats" align="left" width="350px"></a>
+     <a href="https://github.com/hyduez"><img src="assets/rickroll-roll.gif" alt="github stats" align="left" width="200px"></a>
 </details>
