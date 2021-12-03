@@ -1,1 +1,3 @@
-<a href='https://discord.com/invite/cqs7wgeg8P'><img src='assets/fumo-reunion.jpg' alt='Fumo Reunion' /></a>
+<p align='center'>
+  <a href='#'><img src='assets/favicon.png' alt='logo' width='200' /></a>
+</p>
