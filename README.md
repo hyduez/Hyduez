@@ -1,1 +1,5 @@
-<a href='#'><img src='assets/fumo-reunion.jpg' alt='Fumo Reunion' /></a>
+# hyduez readme [dev.to](https://dev.to/hyduez)
+- [📦 repositorios](https://github.com/hyduez?tab=repositories)
+- [⭐ estrellas](https://github.com/hyduez?tab=stars)
+- [📧 correo](mailto:hyduez@outlook.es)
+- [🎈 paquetes (no hay)](https://github.com/hyduez?tab=packages)
