@@ -6,4 +6,4 @@
 
 <hr />
 
-[<img src='https://skillicons.dev/icons?i=bash,css,git,github,html,js,neovim,nextjs,nodejs,tailwind,ts,rege x,vscode' alt='Icons' width='600' />](#)
+[<img src='https://skillicons.dev/icons?i=bash,css,git,github,html,js,neovim,nextjs,nodejs,tailwind,ts,regex,vscode' alt='Icons' width='600' />](#)
