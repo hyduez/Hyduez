@@ -1,4 +1,4 @@
-# Hyduez [dev.to](https://dev.to/hyduez)
+# Hyduez [dev.to](https://dev.to/hyduez) - [spotify](https://open.spotify.com/user/8jdmypnuigtkzwdncg4euo0xw) - [goodreads](https://www.goodreads.com/user/show/154170910-hyduez)
 - [📦 Repositories](https://github.com/hyduez?tab=repositories)
 - [⭐ Stars](https://github.com/hyduez?tab=stars)
 - [📧 E-mail](mailto:hyduez@outlook.es)
